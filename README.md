@@ -58,7 +58,7 @@ I am a Python Developer from Nepal.
 
 https://github-readme-streak-stats.herokuapp.com/?user=Swopnil38
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Swopnil38&theme=dark&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Swopnil38&border_radius=6.9&exclude_days=Sat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swopnil38&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
