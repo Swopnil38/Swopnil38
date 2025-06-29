@@ -60,6 +60,6 @@ https://github-readme-streak-stats.herokuapp.com/?user=Swopnil38
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Swopnil38)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swopnil38&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swopnil38&exclude_days=Sat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
